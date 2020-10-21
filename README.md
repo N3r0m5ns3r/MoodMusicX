@@ -1,2 +1,2 @@
 # MoodMusicX
-Music generation using deep learning
+Facial recognition to detect mood and suggest songs accordingly
